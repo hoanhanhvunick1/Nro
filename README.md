@@ -1,13 +1,8 @@
 
 
+bước 1
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-* Open Termux, copy this line and paste it on Termux
-
-```
+```1
 
 termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install git && pkg install zip && pkg install wget && clear
 
