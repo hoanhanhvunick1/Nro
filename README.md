@@ -8,11 +8,17 @@ termux-setup-storage && apt update && apt upgrade && pkg install php && pkg inst
 
 
 ```
-Git Clone
+bước 2 Git Clone
 ```
 
 git clone https://github.com/hoanhanhvunick1/nro-termux && cd nro-termux
 
 ```
-
+bước 3 
+```
+php dragon.php
+```
+bước 4
+```
+cài sv , qua tab mới nhập lệnh java -Xms2G -Xmx2G -jar dist/kyler.jar
 
